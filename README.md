@@ -15,4 +15,4 @@ If you want to replicate this work, drop the image classes with less than 84 ima
 ![Alt text](/utils/training%20curves.png?raw=true "Training Curves")
 
 
-![Alt text](/saved/V2/8441304109_f77a836f3f_b.jpg?raw=true "Sample Prediction Output")
+![Alt text](/saved/V2/20230620_183019.jpg?raw=true "Sample Prediction Output")
