@@ -1,1 +1,1 @@
-Download the Kaggle dataset at https://www.kaggle.com/datasets/ryuseikataoka/colorado-wildflowers and replace the dataset directory
+Download the Kaggle dataset at https://www.kaggle.com/datasets/ryuseikataoka/colorado-wildflowers and replace the dataset directory. This version uses a dataset where the classes with less than 84 images are removed. 
