@@ -12,4 +12,4 @@ Download the Kaggle dataset available at https://www.kaggle.com/datasets/ryuseik
 
 If you want to replicate this work, drop the image classes with less than 84 images. Instructions are included in `wildflower_dataset.ipynb` If you are running the notebooks with the full Kaggle dataset, minor changes to `flower_utils.py` and the `thumbnails` folder will be required. 
 
-![Alt text](/utils/training curves.png?raw=true "Optional Title")
+![Alt text](/utils/training%20curves.png?raw=true "Optional Title")
